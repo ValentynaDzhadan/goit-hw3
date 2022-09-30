@@ -287,15 +287,13 @@ body {
 
 
 /* ==================== PORTFOLIO ==================== */
-.portfolio{
-    padding: 94px 0;
-}
+
 .filters-menu{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     column-gap: 8px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .filters-btn {
